@@ -8,7 +8,7 @@ This project focuses on layout structure, modern UI sections, and utility-first 
 
 ## 🔗 Live Preview
 > (Add your live link here if deployed)  
-Example: http://127.0.0.1:5500/src/index.html
+Example: https://resplendent-biscochitos-bfddc5.netlify.app/
 
 ---
 
