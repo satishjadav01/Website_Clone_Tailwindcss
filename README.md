@@ -7,7 +7,6 @@ This project focuses on layout structure, modern UI sections, and utility-first 
 ---
 
 ## 🔗 Live Preview
-> (Add your live link here if deployed)  
 Example: https://resplendent-biscochitos-bfddc5.netlify.app/
 
 ---
